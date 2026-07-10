@@ -38,4 +38,4 @@ To practice my Japanese writing skills, I would write a diary everyday and then 
 
 # Credits
 - **Studio Ghibli** - original creators of Totoro and the visual inspiration for the app's theme
-- **Fan artists** - Totoro-inspired artwork used in screenshots were sourced from social media. Original artists unknown. All artwork belongs to their respective creators and is not included in this repsitory. 
+- **Fan artists** - Totoro-inspired artwork used in screenshots were sourced from social media. Original artists unknown. All artwork belongs to their respective creators and is not included in this repository. 
